@@ -1,0 +1,1 @@
+{"name":"comparativo-precos","version":"1.0.0","private":true,"description":"Comparativo de tabelas de preço de transportadoras (antiga × nova)","scripts":{"build":"python3 build.py"},"dependencies":{"xlsx":"0.18.5"}}

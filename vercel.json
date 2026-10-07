@@ -1,0 +1,5 @@
+{
+  "installCommand": "echo sem-instalacao",
+  "buildCommand": "echo site-estatico",
+  "outputDirectory": "web"
+}
